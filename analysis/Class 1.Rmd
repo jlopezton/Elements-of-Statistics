@@ -1,8 +1,8 @@
 ---
 title: 'Class 1 and 2: Frequentist statiscal Inference'
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
   word_document: default
 ---
 
