@@ -12,7 +12,7 @@ navbar:
   right:
   - icon: fa-github
     text: Source code
-    href: https://github.com/myname/Elements-of-Statistics
+    href: https://github.com/jlopezton/Elements-of-Statistics
 output:
   workflowr::wflow_html:
     toc: yes
